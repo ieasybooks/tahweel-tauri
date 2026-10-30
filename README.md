@@ -1,3 +1,9 @@
+> **مؤرشف:** لم يعد هذا المستودع قيد الصيانة. الإصدار الجديد الذي تتم صيانته هو [tahweel-rs](https://github.com/ieasybooks/tahweel-rs).
+>
+> لاستخدام واجهة رسومية عبر المتصفح، استخدم [arabi.tools](https://arabi.tools) لاستخراج النصوص من ملفات PDF والصور.
+>
+> التوثيق أدناه يخص هذا الإصدار المؤرشف.
+
 <p align="center">
   <img src="src/assets/logo.png" alt="شعار تحويل" width="200" />
 </p>
