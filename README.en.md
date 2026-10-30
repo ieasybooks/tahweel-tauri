@@ -1,3 +1,9 @@
+> **Archived:** This repository is no longer maintained. The new maintained version is [tahweel-rs](https://github.com/ieasybooks/tahweel-rs).
+>
+> For a graphical interface in your browser, use [arabi.tools](https://arabi.tools) to extract text from PDFs and images.
+>
+> The documentation below describes this archived implementation.
+
 <p align="center">
   <img src="src/assets/logo.png" alt="Tahweel Logo" width="200" />
 </p>
